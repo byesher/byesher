@@ -15,8 +15,5 @@ Actively seeking an **LLM algorithm / post-training internship**.
 ## 🔭 Currently
 Building an LLM post-training project: **SFT + DPO with structured data** for long-code generation.
 
-## 📫 Contact
-📧 byesher@163.com
-
 ---
 *Open to LLM algorithm / post-training internship opportunities.*
